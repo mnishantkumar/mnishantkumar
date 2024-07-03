@@ -35,7 +35,7 @@ Hi, I'm Nishant Kumar!
 </p>
 <hr>
 <pre>
-💻 I am a Business/Data Analyst 
+💻 I am a Data Engineer 
 📚 B-Tech in Computer Science from CSVTU and Post Grad. Information Technology Business Analysis from Conestoga
 📝 I'm passionate about Business Intelligence and uncovering patterns for strategic, data-driven decisions. 
 🔭 Maximizing value for clients enhances our mutual profitability.
